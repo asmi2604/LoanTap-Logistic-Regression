@@ -1,6 +1,6 @@
-# LoanTap — Personal Loan Credit Underwriting
+# LoanTap — Personal Loan Credit
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+[![Open In Colab](https://colab.research.google.com/drive/1iIe57P0rKKKpaLF-m7vKwoxyGuolGLwC?usp=sharing)]
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-150458.svg)](https://pandas.pydata.org/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.3%2B-F7931E.svg)](https://scikit-learn.org/)
