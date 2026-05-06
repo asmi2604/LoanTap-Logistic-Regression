@@ -232,6 +232,7 @@ loantap-credit-underwriting/
 | Q6 | Primary bank metric | **Recall** (catch real defaulters); **ROC-AUC** for overall model selection |
 | Q7 | Precision-Recall gap effect | High Recall + Low Precision = good borrowers rejected (lost revenue). High Precision + Low Recall = missed defaulters (NPAs) |
 | Q8 | Top features | `grade`, `revol_util`, `annual_inc`, `dti`, `int_rate`, `pub_rec_flag`, `term`, `mort_acc_flag` |
+| Q9 | Recommended threshold scenario | **Scenario A (t=0.52)** for normal conditions — balances catching defaults without over-rejecting good borrowers |
 | Q10 | Geographic effect | **YES** — state default rates range from ~14% (IA) to ~27% (NE) |
 
 ---
