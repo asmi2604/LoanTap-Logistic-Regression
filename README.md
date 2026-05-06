@@ -92,9 +92,9 @@ Transforms raw loan application attributes into a scored underwriting model — 
 ```
 loantap-credit-underwriting/
 │
-├── LoanTap_CreditUnderwriting_Final.ipynb   ← Main notebook (open in Colab)
-├── logistic_regression.csv                  ← Raw dataset (396,030 rows × 27 cols)
-└── README.md                                ← This file
+├── LoanTap_Credit.ipynb          ← Main notebook
+├── logistic_regression.csv       ← Raw dataset
+└── README.md
 ```
 
 ---
