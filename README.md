@@ -318,7 +318,6 @@ Logistic Regression (AUC=0.70) is a strong baseline. Upgrade to XGBoost or Light
 ---
 
 ## Author
-
-**Asmita Rajendra**
-
+**Asmita Rajendra**  
+[LinkedIn](https://www.linkedin.com/in/asmita-r-5b23691a1/) · [GitHub](https://github.com/asmi2604)  
 *Built as a credit risk case study — LoanTap Personal Loans, May 2026*
