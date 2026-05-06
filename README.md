@@ -312,7 +312,7 @@ Logistic Regression (AUC=0.70) is a strong baseline. Upgrade to XGBoost or Light
 | Visualisation | Matplotlib · Seaborn |
 | Machine learning | scikit-learn (LogisticRegression, MinMaxScaler, metrics) |
 | Statistical modeling | statsmodels (Logit, summary2) |
-| Notebook environment | Google Colab / Jupyter |
+| Notebook environment | Google Colab |
 
 ---
 
